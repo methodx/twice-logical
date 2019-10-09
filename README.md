@@ -1,6 +1,7 @@
 # ⨈
 
-twice-logical
+**Twice-Logical**
+
 A free fork of pimux theme, created by [ndyakov](https://github.com/ndyakov).
 
 ## Install
