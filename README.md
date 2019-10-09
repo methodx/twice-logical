@@ -1,7 +1,7 @@
 # ⨈
 
 twice-logical
-Mhy presonal fork of pimux distraction free theme, created by [ndyakov](https://github.com/ndyakov).
+A free fork of pimux theme, created by [ndyakov](https://github.com/ndyakov).
 
 ## Install
 
